@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olamide
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on open project
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me twitter @Akinmiday
 
 <!---
