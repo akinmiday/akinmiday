@@ -48,9 +48,9 @@ A **cross-platform fintech mobile app** with:
 ### [💰 Expense Tracker](https://github.com/akinmiday/expense-tracker)  
 A **full-stack expense tracking system** with AI-powered categorization using **DeepSeek AI**.  
 
-✅ **Real-time transaction categorization**  
+✅ **Real-time transaction categorization with AI**  
 ✅ **User authentication & security**  
-✅ **Graphical insights & financial analysis**  
+✅ **Graphical insights & financial analysis using AI**  
 
 > **Tech Stack**: React, Express.js, MongoDB, DeepSeek AI  
 
