@@ -56,6 +56,17 @@ A **full-stack expense tracking system** with AI-powered categorization using **
 
 ---  
 
+### [🤖 DeepSeek API - AI Chatbot Server](https://github.com/akinmiday/deepseek-api)  
+A **lightweight AI chatbot server** that connects to **Ollama's locally hosted LLMs**, enabling AI chat capabilities without an internet connection.  
+
+✅ **Local AI API** – Runs entirely on your machine, no internet required  
+✅ **Custom AI Models** – Uses `deepseek-r1:7b` by default (configurable via `.env`)  
+✅ **Fast & Secure API Requests** – Optimized with CORS and environment variables  
+
+> **Tech Stack**: Node.js, Express.js, Ollama, DeepSeek R1  
+
+---
+
 ### [💳 Paga API](https://github.com/akinmiday/pagaApi)  
 A **custom API** for integrating Paga's payment and transaction services.  
 
