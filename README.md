@@ -100,5 +100,6 @@ A **React + TypeScript tool** to export Firestore collection data to an Excel fi
 ## 📫 Let’s Connect!  
 I’m always open to collaborating on exciting projects or discussing new opportunities.  
  
-[🔗 **LinkedIn**](https://linkedin.com/in/olamide-akinola-53946a1a1)  
+[🔗 **LinkedIn**](https://linkedin.com/in/olamide-akinola-53946a1a1)
+
 [🔗 **X (Twitter)**](https://x.com/akinmiday)  
