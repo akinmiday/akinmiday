@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | Mobile App Developer | AI Integration  
 
-I’m a passionate **Full-Stack Developer** with over **4 years of experience** building scalable **web and mobile applications** using **JavaScript, React, React Native, and Node.js**. I specialize in integrating **real-time data solutions, AI-driven features, and payment gateways** while ensuring a seamless **user experience**.  
+I’m a passionate **Full-Stack Developer** with over **4 years of experience** building scalable **web and mobile applications** using **JavaScript, TypeScript, React, React Native, and Node.js**. I specialize in integrating **real-time data solutions, AI-driven features, and payment gateways** while ensuring a seamless **user experience**.  
 
 I've worked with startups to take their apps from **inception to launch**, ensuring they meet **App Store and Google Play Store guidelines** and deliver **high-performance** solutions.  
 
@@ -56,6 +56,17 @@ A **full-stack expense tracking system** with AI-powered categorization using **
 
 ---  
 
+### [💳 Paga API](https://github.com/akinmiday/pagaApi)  
+A **custom API** for integrating Paga's payment and transaction services.  
+
+✅ **Handles secure transactions**  
+✅ **User authentication and management**  
+✅ **Seamless integration with external APIs**  
+
+> **Tech Stack**: Node.js, Express.js, Paga API  
+
+---
+
 ### [📂 Firestore Collection Exporter](https://github.com/akinmiday/firebase-database-exporter)  
 A **React + TypeScript tool** to export Firestore collection data to an Excel file with a user-friendly UI.  
 
@@ -64,7 +75,8 @@ A **React + TypeScript tool** to export Firestore collection data to an Excel fi
 
 > **Tech Stack**: React, TypeScript, Firebase, XLSX  
 
----
+---  
+
 
 ## 🚀 What I Bring to the Table  
 ✅ **React Native expertise** for cross-platform mobile development  
@@ -76,7 +88,6 @@ A **React + TypeScript tool** to export Firestore collection data to an Excel fi
 
 ## 📫 Let’s Connect!  
 I’m always open to collaborating on exciting projects or discussing new opportunities.  
-
-🔗 **Portfolio**: [GitHub](https://github.com/akinmiday)  
+ 
 🔗 **LinkedIn**: [linkedin.com/in/olamide-akinola-53946a1a1](https://linkedin.com/in/olamide-akinola-53946a1a1)  
 🔗 **X (Twitter)**: [x.com/akinmiday](https://x.com/akinmiday)  
