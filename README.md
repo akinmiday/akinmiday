@@ -2,7 +2,7 @@
 
 ### 🚀 Full‑Stack Developer · Mobile App Specialist · AI Integrator
 
-I’m a passionate **Full‑Stack Developer** with **4+ years** of experience shipping scalable **web, mobile, and desktop** solutions. My toolkit spans **JavaScript**, **TypeScript**, **React**, **React Native**, **Node.js**, and **C# / .NET**. I weave real‑time data, AI‑powered insights, and secure payment flows into friction‑less user experiences.
+**Full‑Stack Software Developer** with **4+ years** of experience shipping scalable **web, mobile, and desktop** solutions. My toolkit spans **JavaScript**, **TypeScript**, **React**, **React Native**, **Node.js**, and **C# / .NET**. I weave real‑time data, AI‑powered insights, and secure payment flows into friction‑less user experiences.
 
 From green‑field MVPs to global launches, I guide startups through App Store & Play Store compliance, performance hardening, and seamless deployments.
 
