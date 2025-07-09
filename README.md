@@ -1,10 +1,10 @@
 # Hi, I'm Olamide 👋
 
-### 🚀 Full-Stack Software Developer | Mobile App Developer | AI Integration
+### 🚀 Full‑Stack Developer · Mobile App Specialist · AI Integrator
 
-I’m a passionate **Full‑Stack Developer** with **4+ years** of experience shipping scalable **web, mobile, and desktop** products. My toolbox spans **JavaScript**, **TypeScript**, **React**, **React Native**, **Node.js**, and **C# /.NET**. I weave real‑time data, AI‑driven insights, and secure payment flows into seamless user experiences.
+I’m a passionate **Full‑Stack Developer** with **4+ years** of experience shipping scalable **web, mobile, and desktop** solutions. My toolkit spans **JavaScript**, **TypeScript**, **React**, **React Native**, **Node.js**, and **C# / .NET**. I weave real‑time data, AI‑powered insights, and secure payment flows into friction‑less user experiences.
 
-From green‑field MVPs to production launches, I help startups navigate App Store & Play Store guidelines, harden performance, and deliver reliable, high‑performance solutions.
+From green‑field MVPs to global launches, I guide startups through App Store & Play Store compliance, performance hardening, and seamless deployments.
 
 ---
 
@@ -12,25 +12,25 @@ From green‑field MVPs to production launches, I help startups navigate App St
 
 ### **Frontend**
 
-* 🖥️ **React, React Native (Expo)**
-* 📜 **TypeScript, JavaScript (ES6+), HTML, CSS**
+* 🖥️ **React · React Native (Expo)**
+* 📜 **TypeScript · JavaScript (ES6+) · HTML · CSS**
 * 🎨 **Tailwind CSS**
 
 ### **Backend & Database**
 
-* 🚀 **Node.js, Express.js, C# (.NET 6+)**
-* 🔥 **Firebase, MongoDB, PostgreSQL**
+* 🚀 **Node.js · Express.js · C# (.NET 6+)**
+* 🔥 **Firebase · MongoDB · PostgreSQL**
 
 ### **Tools & DevOps**
 
 * 🐳 **Docker**
-* 🔗 **Git, GitHub, Vercel**
-* 🛠️ **Jest, Figma**
+* 🔗 **Git · GitHub · Vercel**
+* 🛠️ **Jest · Figma**
 
 ### **AI & Blockchain**
 
-* 🤖 **OpenAI, DeepSeek AI**
-* ⛓️ **Ethers.js, wagmi**
+* 🤖 **OpenAI · DeepSeek AI**
+* ⛓️ **Ethers.js · wagmi**
 * 📡 **Telegram API (Telegraf)**
 
 ---
@@ -39,83 +39,80 @@ From green‑field MVPs to production launches, I help startups navigate App St
 
 ### [🔹 Swegz App](https://apps.apple.com/ng/app/swegzapp/id6736983550)
 
-A **cross-platform fintech mobile app** with:
-✅ **Digital wallet** for seamless transactions
-✅ **In-app transfers, bill payments, and gift card trading**
-✅ **Crypto trading functionality**
-✅ **Biometric KYC verification**
-✅ **App Store & Google Play compliance**
+**Cross‑platform fintech wallet** delivering:
+✅ Digital wallet & in‑app transfers
+✅ Crypto trading & gift‑card marketplace
+✅ Bill payments & airtime/data top‑ups
+✅ Biometric KYC verification
+✅ Full App Store & Play Store compliance
 
-> **Tech Stack**: React Native, Firebase, Node.js, Express.js, Stripe, SmileID SDK
+> **Built with**: React Native, Firebase, Node.js, Express.js, Stripe, SmileID SDK
 
 ---
 
 ### [🖼️ FaceRecApp](https://github.com/akinmiday/FaceRecApp)
 
-A **modular facial-recognition suite** built in C# and OpenCvSharp.
+**Desktop‑class facial‑recognition suite** in C# & OpenCvSharp:
+✅ Console‑mode training & live recognition
+✅ Haar‑cascade detection + LBPH recognition with CSRT tracking
+✅ Snapshot service (auto‑saves faces & logs to CSV)
+✅ Avalonia GUI for enrollment, model training, and live monitoring
 
-✅ **Console training & live recognition**
-✅ **Haar‑cascade detection + LBPH recognition with CSRT tracking**
-✅ **Snapshot service** – auto‑saves cropped faces & logs to CSV
-✅ **Avalonia GUI** for managing persons, training, and live stream
-
-> **Tech Stack**: C# (.NET 6+), OpenCvSharp, Avalonia
+> **Built with**: C# (.NET 6+), OpenCvSharp, Avalonia
 
 ---
 
 ### [💰 Expense Tracker](https://github.com/akinmiday/expense-tracker)
 
-A **full-stack expense tracking system** with AI-powered categorization using **DeepSeek AI**.
+**AI‑powered budgeting dashboard**:
+✅ Real‑time expense categorization via DeepSeek AI
+✅ Secure auth & role‑based access
+✅ Interactive charts & financial insights
 
-✅ **Real-time transaction categorization with AI**
-✅ **User authentication & security**
-✅ **Graphical insights & financial analysis using AI**
-
-> **Tech Stack**: React, Express.js, MongoDB, DeepSeek AI
+> **Built with**: React, Express.js, MongoDB, DeepSeek AI
 
 ---
 
-### [🤖 DeepSeek API - AI Chatbot Server](https://github.com/akinmiday/deepseek-api)
+### [🤖 DeepSeek API](https://github.com/akinmiday/deepseek-api)
 
-A **lightweight AI chatbot server** that connects to **Ollama's locally hosted LLMs**, enabling AI chat capabilities without an internet connection.
+**Offline chatbot server** that proxies local LLMs:
+✅ Runs entirely on‑prem—no internet required
+✅ Pluggable model support (default `deepseek-r1:7b`)
+✅ CORS‑hardened REST endpoints
 
-✅ **Local AI API** – Runs entirely on your machine, no internet required
-✅ **Custom AI Models** – Uses `deepseek-r1:7b` by default (configurable via `.env`)
-✅ **Fast & Secure API Requests** – Optimized with CORS and environment variables
-
-> **Tech Stack**: Node.js, Express.js, Ollama, DeepSeek R1
+> **Built with**: Node.js, Express.js, Ollama, DeepSeek R1
 
 ---
 
 ### [💳 Paga API](https://github.com/akinmiday/pagaApi)
 
-A **custom API** for integrating Paga's payment and transaction services.
+**Secure SDK** wrapping Paga’s payment endpoints:
+✅ Token‑based auth & encryption
+✅ Transaction management & reconciliation helpers
+✅ Easy drop‑in for Node.js services
 
-✅ **Handles secure transactions**
-✅ **User authentication and management**
-✅ **Seamless integration with external APIs**
-
-> **Tech Stack**: Node.js, Express.js, Paga API
+> **Built with**: Node.js, Express.js, Paga API
 
 ---
 
 ### [📂 Firestore Collection Exporter](https://github.com/akinmiday/firebase-database-exporter)
 
-A **React + TypeScript tool** to export Firestore collection data to an Excel file with a user-friendly UI.
+**One‑click Firestore → Excel** export tool:
+✅ Clean React + TypeScript UI
+✅ XLSX export with progress feedback
+✅ Responsive design & loading skeletons
 
-✅ **Easy-to-use export functionality**
-✅ **Responsive design & loading states**
-
-> **Tech Stack**: React, TypeScript, Firebase, XLSX
+> **Built with**: React, TypeScript, Firebase, XLSX
 
 ---
 
-## 🚀 What I Bring to the Table
+## 🚀 What I Bring
 
-✅ **React Native expertise** for cross-platform mobile development
-✅ **Experience in AI-powered applications** (DeepSeek AI, OpenAI)
-✅ **API development & integrations** (REST, Stripe, Telegram API, Paga API)
-✅ **Proven ability to launch production-ready apps**
+* 📱 **Cross‑platform mobile mastery** (React Native & Expo)
+* 🤖 **AI feature design & integration** (OpenAI, DeepSeek)
+* 🔐 **Secure API & payment gateway development**
+* 📈 **Performance tuning & real‑time data pipelines**
+* 📝 **Clear docs, mentoring, and team‑first collaboration**
 
 ---
 
