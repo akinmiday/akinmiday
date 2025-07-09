@@ -40,11 +40,11 @@ From green‑field MVPs to global launches, I guide startups through App Store &
 ### [🔹 Swegz App](https://apps.apple.com/ng/app/swegzapp/id6736983550)
 
 **Cross‑platform fintech wallet** delivering:
-✅ Digital wallet & in‑app transfers
-✅ Crypto trading & gift‑card marketplace
-✅ Bill payments & airtime/data top‑ups
-✅ Biometric KYC verification
-✅ Full App Store & Play Store compliance
+* ✅ Digital wallet & in‑app transfers
+* ✅ Crypto trading & gift‑card marketplace
+* ✅ Bill payments & airtime/data top‑ups
+* ✅ Biometric KYC verification
+* ✅ Full App Store & Play Store compliance
 
 > **Built with**: React Native, Firebase, Node.js, Express.js, Stripe, SmileID SDK
 
@@ -53,10 +53,10 @@ From green‑field MVPs to global launches, I guide startups through App Store &
 ### [🖼️ FaceRecApp](https://github.com/akinmiday/FaceRecApp)
 
 **Desktop‑class facial‑recognition suite** in C# & OpenCvSharp:
-✅ Console‑mode training & live recognition
-✅ Haar‑cascade detection + LBPH recognition with CSRT tracking
-✅ Snapshot service (auto‑saves faces & logs to CSV)
-✅ Avalonia GUI for enrollment, model training, and live monitoring
+* ✅ Console‑mode training & live recognition
+* ✅ Haar‑cascade detection + LBPH recognition with CSRT tracking
+* ✅ Snapshot service (auto‑saves faces & logs to CSV)
+* ✅ Avalonia GUI for enrollment, model training, and live monitoring
 
 > **Built with**: C# (.NET 6+), OpenCvSharp, Avalonia
 
@@ -65,9 +65,9 @@ From green‑field MVPs to global launches, I guide startups through App Store &
 ### [💰 Expense Tracker](https://github.com/akinmiday/expense-tracker)
 
 **AI‑powered budgeting dashboard**:
-✅ Real‑time expense categorization via DeepSeek AI
-✅ Secure auth & role‑based access
-✅ Interactive charts & financial insights
+* ✅ Real‑time expense categorization via DeepSeek AI
+* ✅ Secure auth & role‑based access
+* ✅ Interactive charts & financial insights
 
 > **Built with**: React, Express.js, MongoDB, DeepSeek AI
 
@@ -76,9 +76,9 @@ From green‑field MVPs to global launches, I guide startups through App Store &
 ### [🤖 DeepSeek API](https://github.com/akinmiday/deepseek-api)
 
 **Offline chatbot server** that proxies local LLMs:
-✅ Runs entirely on‑prem—no internet required
-✅ Pluggable model support (default `deepseek-r1:7b`)
-✅ CORS‑hardened REST endpoints
+* ✅ Runs entirely on‑prem—no internet required
+* ✅ Pluggable model support (default `deepseek-r1:7b`)
+* ✅ CORS‑hardened REST endpoints
 
 > **Built with**: Node.js, Express.js, Ollama, DeepSeek R1
 
@@ -87,9 +87,9 @@ From green‑field MVPs to global launches, I guide startups through App Store &
 ### [💳 Paga API](https://github.com/akinmiday/pagaApi)
 
 **Secure SDK** wrapping Paga’s payment endpoints:
-✅ Token‑based auth & encryption
-✅ Transaction management & reconciliation helpers
-✅ Easy drop‑in for Node.js services
+* ✅ Token‑based auth & encryption
+* ✅ Transaction management & reconciliation helpers
+* ✅ Easy drop‑in for Node.js services
 
 > **Built with**: Node.js, Express.js, Paga API
 
@@ -98,9 +98,9 @@ From green‑field MVPs to global launches, I guide startups through App Store &
 ### [📂 Firestore Collection Exporter](https://github.com/akinmiday/firebase-database-exporter)
 
 **One‑click Firestore → Excel** export tool:
-✅ Clean React + TypeScript UI
-✅ XLSX export with progress feedback
-✅ Responsive design & loading skeletons
+* ✅ Clean React + TypeScript UI
+* ✅ XLSX export with progress feedback
+* ✅ Responsive design & loading skeletons
 
 > **Built with**: React, TypeScript, Firebase, XLSX
 
